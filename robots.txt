@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luckybear1.com/sitemap.xml
